@@ -1,0 +1,27 @@
+{
+  "name": "formulario",
+  "version": "4.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbadilla/formulario.git"
+  },
+  "author": "fco bad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbadilla/formulario/issues"
+  },
+  "homepage": "https://github.com/fbadilla/formulario#readme",
+  "dependencies": {
+    "validator": "^11.0.0",
+    "webpack": "^4.35.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.4"
+  }
+}
