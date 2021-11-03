@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/fbadilla/formulario#readme",
   "dependencies": {
-    "validator": "^11.0.0",
+    "validator": "^13.7.0",
     "webpack": "^4.35.0"
   },
   "devDependencies": {
